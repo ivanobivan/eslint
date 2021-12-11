@@ -1,1 +1,1 @@
-# eslint
+# eslint/prettier settins
